@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+body {
+	background-color: black;
+}
+
+p {
+	color: #ff0072;
+	text-align: center;
+	background-color: pink;
+}
+
+h1 {
+	 font-family: "Arizonia", cursive;
+	 font-weight: 500;
+  	 font-style: normal;
+  	 font-size: 180px;
+  	 text-align: center;
+  	 color: #fcb1b8;
+}
+
+h2 {
+	font-family: "Impact";
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	text-decoration: line-through;
+}
+
+h3 {
+	font-family: "Arizonia";
+	color: white;
+	text-align: center;
+	font-size: 70px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#superspecial {
+	color: #ff0072;
+}
+
+.emphasis {
+	text-align: center;
+	color: black;
+	width: 250px;
+	margin-left: auto;
+  	margin-right: auto;
+  	padding: 3px;
+}
+
+.organizer {
+	text-align: center;
+}
